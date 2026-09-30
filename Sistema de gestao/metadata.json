@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Gestão Médica",
+  "description": "Painel de controle e gerenciamento de remarcações, consultas, exames, intranet e atendimento em recesso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
